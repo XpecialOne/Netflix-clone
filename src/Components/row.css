@@ -9,7 +9,7 @@
   }
 
   .row_poster:hover {
-    transform: scale(1.15);
+    transform: scale(1.08);
     opacity: 0.8;
 }
 
@@ -24,4 +24,18 @@
 
 .row_posters::-webkit-scrollbar  {
     display: none;
+}
+
+.row_posterLarge {
+    max-height: 250px;
+}
+
+.row_posterLarge:hover{
+    transform: scale(1.10);
+    opacity: 0.8;
+}
+
+.row {
+    color: #fff;
+    margin-left: 20px;
 }
