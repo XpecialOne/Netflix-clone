@@ -6,7 +6,7 @@ import Banner from '../src/Components/Banner'
 
 function App() {
   return (
-    <div className="App">
+    <div className="app">
 
     {/* Nav bar*/}
 
