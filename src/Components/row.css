@@ -39,3 +39,12 @@
     color: #fff;
     margin-left: 20px;
 }
+
+.yt {
+    /* display: flex; */
+    flex-direction: column;
+    align-items: center;
+    height: "350",
+ 
+
+}
